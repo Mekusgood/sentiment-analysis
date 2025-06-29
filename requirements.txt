@@ -1,0 +1,11 @@
+# Core dependencies
+transformers==4.30.2
+torch==2.0.1
+scipy==1.10.1
+pandas==2.0.2
+tqdm==4.65.0
+numpy==1.24.3
+
+# Optional for visualization
+matplotlib==3.7.1
+seaborn==0.12.2
